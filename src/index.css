@@ -8,3 +8,9 @@
   }
   
 }
+.navbar__nav{
+  display: flex;
+}
+.navbar__nav2{
+  display: flex;
+}
