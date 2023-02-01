@@ -4,13 +4,13 @@
 
 @layer base {
   button {
-    @apply border border-black rounded-xl px-5 py-1
+   @apply border border-black rounded-xl px-5 py-1
   }
   
 }
-.navbar__nav{
+/* .navbar__nav{
   display: flex;
 }
 .navbar__nav2{
   display: flex;
-}
+} */
