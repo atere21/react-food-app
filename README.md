@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# A React JS Website Styled With Tailwind CSS
+
+![food-app](https://user-images.githubusercontent.com/106532533/216435284-ce07d8a3-42ed-4947-bf9f-14c8b5be862e.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
